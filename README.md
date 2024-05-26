@@ -1,16 +1,11 @@
 # Hi there 👋
 
-I'm Seok Kyu Han, a passionate Data Analyst with a proven track record of developing predictive and anomaly detection models. I have extensive experience in optimizing manufacturing processes and energy savings.
+Hi there! I'm Seok Kyu Han, a Senior Researcher specializing in AI-driven solutions for the manufacturing industry. 🏭 
+My passion lies in predictive modeling and anomaly detection, where I've successfully optimized processes and achieved significant energy savings.
 
-## About Me
-- 🔭 I’m currently working at Techdas as a Senior Researcher, specializing in AI-driven solutions for the manufacturing industry.
-- 🌱 I’m currently learning machine learning/deep learning techniques to enhance predictive modeling and anomaly detection.
-- 👯 I’m looking to collaborate on projects related to industrial optimization, data visualization, and building robust data pipelines.
-- 📫 How to reach me: asdm159@naver.com
-- ⚡ Fun fact: I love exploring new data visualization tools and techniques to uncover hidden insights in complex datasets.
-- 🎯 **Future Goals:** I aim to contribute to the intelligent transformation of the manufacturing industry through AI, fostering the advancement of South Korea.
-
-My primary focus is on applying AI and machine learning to solve real-world problems in the manufacturing sector. I have a strong passion for data analysis, creating insightful visualizations, and developing efficient data pipelines to streamline processes and improve decision-making.
+Data analysis and visualization are my forte. 📊 I thrive on uncovering hidden patterns in complex datasets and using them to solve real-world problems.
+I'm always eager to explore new visualization tools and share my findings on my tech blog. 🌱 My ultimate goal is to drive the intelligent transformation of South Korea's manufacturing sector through AI.
+Feel free to check out my repositories and reach out if you'd like to collaborate! 💻
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
