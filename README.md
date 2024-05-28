@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 Hi there! I'm Seok Kyu Han, a Senior Researcher specializing in AI-driven solutions for the manufacturing industry. 🏭 
 My passion lies in predictive modeling and anomaly detection, where I've successfully optimized processes and achieved significant energy savings.
