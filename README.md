@@ -60,6 +60,15 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 ## Awards
 - **Grand Prize at Carbon Neutral Digital Industrial Innovation Big Data Platform Data Challenge** | November 2022
 
+## Patents
+- **Flue Gas Analyzer Monitoring System Using Virtual Sensor Dualization for Reheating Furnace**
+  - **Application Number/Date:** 1020220150884 (2022.11.11)
+  - This patent is related to the project "Development of a Virtual Sensor System for Heating Furnace Exhaust Gas."
+
+- **Smart Performance Monitoring System Using Real-time Efficiency Control Limit for Industrial Boilers**
+  - **Application Number/Date:** 1020210133362 (2021.10.07)
+  - This patent is separate from other projects.
+
 ---
 
 Feel free to explore my repositories and connect with me for any collaborative opportunities!
