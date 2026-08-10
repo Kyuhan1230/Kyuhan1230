@@ -133,6 +133,11 @@ SAP 판매계획이 갱신될 때마다 담당자가 Excel에서 일별 생산�
 - **내부 목표:** 예측 오차 ±1.05% 이내
 - 386개 온도 추정 지점에 적용했으며, 현장에서 연료 공급량을 결정할 때 실시간 온도 가이드로 활용
 
+<p align="center">
+  <img src="./assets/career/coke-oven-prediction.png" alt="코크스 오븐 실시간 온도 예측과 미래 예측 결과" width="760">
+</p>
+<p align="center"><sub>실시간 온도 예측과 미래 예측 결과</sub></p>
+
 #### RTO 전·후단 THC 가상센서 및 운전 진단
 
 `2022.05–2022.12`
@@ -140,6 +145,11 @@ SAP 판매계획이 갱신될 때마다 담당자가 Excel에서 일별 생산�
 **배경과 목표**
 
 RTO로 유입되는 고농도 THC를 사전에 파악하기 어렵고, 분석기 측정 공백 시 운전 상태를 확인할 대체 지표가 부족함. 상류 공정 데이터로 전·후단 THC 농도를 추정해 조기 대응과 계측 공백 보조에 활용하고자 함.
+
+<p align="center">
+  <img src="./assets/career/rto-process.png" alt="RTO 공정 모식도" width="760">
+</p>
+<p align="center"><sub>RTO 공정 모식도</sub></p>
 
 **수행 내용**
 
@@ -152,6 +162,12 @@ RTO로 유입되는 고농도 THC를 사전에 파악하기 어렵고, 분석기
 - 전단 가상센서 MAPE 2.7%
 - 후단 가상센서 MAPE 5.4%
 - 분석기 측정 공백 기간에 운전자의 보조 참고값으로 사용
+
+<p align="center">
+  <img src="./assets/career/rto-hotelling-t2.png" alt="Hotelling's T² 기반 이상 감지 결과" width="49%">
+  <img src="./assets/career/rto-contribution.png" alt="공정 변수 기여도 분석 결과" width="46%">
+</p>
+<p align="center"><sub>Hotelling’s T² 기반 이상 감지와 원인 변수 기여도 분석</sub></p>
 
 ## 개인 프로젝트
 
