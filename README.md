@@ -27,11 +27,6 @@
 - **[AI Usage Monitor](https://github.com/Kyuhan1230/ai-usage-monitor)** — Codex CLI와 Claude Code의 사용량, 한도 소진 시점과 사용 급증을 확인하는 Windows 데스크톱 앱
 - **[Data Reconciliation](https://github.com/Kyuhan1230/DataReconciliation)** — 물질수지 제약을 이용해 공정 측정값의 불일치를 조정하는 방법을 수식과 예제로 정리한 저장소
 
-<p align="center">
-  <a href="https://github.com/Kyuhan1230/ai-usage-monitor">
-    <img src="https://raw.githubusercontent.com/Kyuhan1230/ai-usage-monitor/main/docs/images/app-compact.png" alt="AI Usage Monitor compact view" width="560">
-  </a>
-</p>
 
 ## 연구 발표
 
